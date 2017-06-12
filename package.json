@@ -1,0 +1,4 @@
+{
+	"name": "VideoPlayer",
+	"main": "electron.js"
+}
